@@ -1,0 +1,4 @@
+package com.mycompany.assignmenty1y2g5;
+public interface Movable {
+    void move();
+}
